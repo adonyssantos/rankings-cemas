@@ -68,6 +68,11 @@ Aquí unos enlaces con información que podria serte util:
 1. https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork#platform-linux
 2. https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork#platform-linux
 
+ Aqui el link de los reportes del proyecto
+
+1. https://drive.google.com/drive/folders/1sJdno7Qg00N_rRsHNCbQpDaTjWBCEIAA
+
+
  ## El primer paso del algoritmo es obtener los reportes por curso y periodo:      
  `4A:2020-2021`
  
