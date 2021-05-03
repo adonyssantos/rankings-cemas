@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rankings-cemas/static/css/main.923788b8.chunk.css",
-    "main.js": "/rankings-cemas/static/js/main.87f05015.chunk.js",
-    "main.js.map": "/rankings-cemas/static/js/main.87f05015.chunk.js.map",
+    "main.js": "/rankings-cemas/static/js/main.57456ed6.chunk.js",
+    "main.js.map": "/rankings-cemas/static/js/main.57456ed6.chunk.js.map",
     "runtime-main.js": "/rankings-cemas/static/js/runtime-main.90bf0727.js",
     "runtime-main.js.map": "/rankings-cemas/static/js/runtime-main.90bf0727.js.map",
     "static/js/2.55150d24.chunk.js": "/rankings-cemas/static/js/2.55150d24.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.90bf0727.js",
     "static/js/2.55150d24.chunk.js",
     "static/css/main.923788b8.chunk.css",
-    "static/js/main.87f05015.chunk.js"
+    "static/js/main.57456ed6.chunk.js"
   ]
 }
