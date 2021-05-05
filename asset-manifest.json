@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rankings-cemas/static/css/main.923788b8.chunk.css",
-    "main.js": "/rankings-cemas/static/js/main.57456ed6.chunk.js",
-    "main.js.map": "/rankings-cemas/static/js/main.57456ed6.chunk.js.map",
+    "main.css": "/rankings-cemas/static/css/main.ca3b1228.chunk.css",
+    "main.js": "/rankings-cemas/static/js/main.95628cd2.chunk.js",
+    "main.js.map": "/rankings-cemas/static/js/main.95628cd2.chunk.js.map",
     "runtime-main.js": "/rankings-cemas/static/js/runtime-main.90bf0727.js",
     "runtime-main.js.map": "/rankings-cemas/static/js/runtime-main.90bf0727.js.map",
     "static/js/2.55150d24.chunk.js": "/rankings-cemas/static/js/2.55150d24.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.163f4dd1.chunk.js": "/rankings-cemas/static/js/3.163f4dd1.chunk.js",
     "static/js/3.163f4dd1.chunk.js.map": "/rankings-cemas/static/js/3.163f4dd1.chunk.js.map",
     "index.html": "/rankings-cemas/index.html",
-    "static/css/main.923788b8.chunk.css.map": "/rankings-cemas/static/css/main.923788b8.chunk.css.map",
+    "static/css/main.ca3b1228.chunk.css.map": "/rankings-cemas/static/css/main.ca3b1228.chunk.css.map",
     "static/js/2.55150d24.chunk.js.LICENSE.txt": "/rankings-cemas/static/js/2.55150d24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.90bf0727.js",
     "static/js/2.55150d24.chunk.js",
-    "static/css/main.923788b8.chunk.css",
-    "static/js/main.57456ed6.chunk.js"
+    "static/css/main.ca3b1228.chunk.css",
+    "static/js/main.95628cd2.chunk.js"
   ]
 }
