@@ -33,7 +33,7 @@
 
 ## Captura de pantalla
 
-![Ranking Cemas](./assets/img/app_final.png)
+![Ranking Cemas](./assets/img/screenshot_pc.png)
 
 ## Scripts
 
